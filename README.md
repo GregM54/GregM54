@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GregM54
-- 👀 I’m interested in Networking, Cloud Infrastructure, 
-- 🌱 I’m currently learning Python
-- I’m looking to meet and network
+- 👀 I’m interested in Networking, Cloud Infrastructure, System Admin
+- 🌱 I’m currently learning Python & Studying for my CCNA
 - 📫 Discord: Greg54
 
 <!---
